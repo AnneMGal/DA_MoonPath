@@ -5,5 +5,5 @@ DATA ART #3 - Place & Space
 
 ………
 
-//PROCESSING SKETCHES:
+// PROCESSING SKETCHES:
 Melissa and I exchanged OpenPaths data and used it to create our own interpretation of each other’s week in outer space. This contains the processing sketch of Melissa’s week on the moon visualized.
